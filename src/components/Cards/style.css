@@ -1,17 +1,19 @@
 .card {
-    width: 170px; 
-    height: 170px; 
+    width: 130px; 
+    height: 130px; 
     padding: 1rem;  
     margin: 1.5rem; 
     border-radius: 15px;
     display: inline-block; 
     border-style: solid;
-    border-color: #82D0FF;
+    border-color: rgba(192, 227, 248, 0.721);
+    transition: all .2s ease-in-out; 
+    cursor: pointer;
 } 
-
 .card:hover{
-    box-shadow: -1px 10px 29px 0px rgb(180, 226, 255);
-  }
+  transform: scale(1.1);
+}
+
 
 .card .img-container {
     height: 100%;
@@ -22,3 +24,9 @@
   .card .img-container img {
     width: 100%
   }
+  .img-container{
+    cursor: pointer;
+    transition: all .2s ease-in-out; 
+  }
+  
+  .img-container:hover { transform: scale(1.1); }

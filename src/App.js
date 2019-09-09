@@ -66,7 +66,7 @@ class App extends React.Component {
             <Jumbotron />
           </div>
           <div className="row">
-            <div className="col m12">
+            <div className="col m12 text-center">
               <Scoreboard
                 score={this.state.score}
                 highestscore={this.state.highestscore}
