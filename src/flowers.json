@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "cactus",
+        "image": "https://image.flaticon.com/icons/svg/2036/2036053.svg"
+    },
+    {
+        "id": 2,
+        "name": "red flower",
+        "image": "https://image.flaticon.com/icons/svg/346/346167.svg"
+    },
+    {
+        "id": 3,
+        "name": "rose",
+        "image": "https://image.flaticon.com/icons/svg/185/185788.svg"
+    },
+    {
+        "id": 4,
+        "name": "sakura",
+        "image": "https://image.flaticon.com/icons/svg/1087/1087436.svg"
+    },
+    {
+        "id": 5,
+        "name": "sunflower",
+        "image": "https://image.flaticon.com/icons/svg/185/185755.svg"
+    },
+    {
+        "id": 6,
+        "name": "lotus",
+        "image": "https://image.flaticon.com/icons/svg/1398/1398879.svg"
+    },
+    {
+        "id": 7,
+        "name": "tulip",
+        "image": "https://image.flaticon.com/icons/svg/616/616435.svg"
+    },
+    {
+        "id": 8,
+        "name": "hydrangea",
+        "image": "https://image.flaticon.com/icons/svg/185/185791.svg"
+    },
+    {
+        "id": 9,
+        "name": "daisy",
+        "image": "https://image.flaticon.com/icons/svg/185/185801.svg"
+    },
+    {
+        "id": 10,
+        "name": "lilium",
+        "image": "https://image.flaticon.com/icons/svg/1699/1699112.svg"
+    },
+    {
+        "id": 11,
+        "name": "petunia",
+        "image": "https://image.flaticon.com/icons/svg/185/185762.svg"
+    },
+    {
+        "id": 12,
+        "name": "orchid",
+        "image": "https://image.flaticon.com/icons/svg/1087/1087430.svg"
+    }
+]

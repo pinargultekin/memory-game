@@ -1,0 +1,15 @@
+.score-board {
+  text-align: center;
+  border-style: dotted;
+  border-radius: 2rem;
+  border-color: #6bd9e8;
+  padding: 2rem;
+}
+h4 {
+  font-family: "Varela", sans-serif;
+  font-size: 46px;
+}
+.scores {
+  font-family: "Varela", sans-serif;
+  font-size: 24px;
+}

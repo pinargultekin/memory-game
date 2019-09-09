@@ -1,0 +1,14 @@
+.card-panel {
+  margin: 3rem;
+  background-color: #82d0ff;
+  border-radius: 2rem;
+  text-align: center;
+}
+h1 {
+  font-family: "Averia Sans Libre", cursive;
+  color: #8a76e8;
+}
+h3 {
+  font-family: "Neucha", cursive;
+  color: #b982ff;
+}
