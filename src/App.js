@@ -6,7 +6,6 @@ import Wrapper from './components/Wrapper';
 import flowers from './flowers.json';
 import './App.css';
 
-
 class App extends React.Component {
   
   state = {
@@ -44,7 +43,7 @@ class App extends React.Component {
           score: 0,
           selected: [],
         })
-        alert("Woww! Great memory!!!");
+       alert("Woww! Great memory!!!");
       }
     }
     
@@ -72,7 +71,6 @@ class App extends React.Component {
                 highestscore={this.state.highestscore}
               />
             </div>
-
             <div className="col m12">
               {this.state.flowers.map(img => (
                 <Cards

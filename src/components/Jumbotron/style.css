@@ -1,6 +1,7 @@
 .card-panel {
   margin: 3rem;
   background-color: #82d0ff;
+  background: linear-gradient(#a0daeb, #61a4fb);
   border-radius: 2rem;
   text-align: center;
 }
